@@ -1,0 +1,62 @@
+
+.common{
+    text-align:justify;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    color:rgb(21, 255, 0);
+    text-align: center;
+
+}
+.quote{
+    color:blue;
+    padding:2px;
+    align-content: center;
+}
+table {border-style: solid;
+    
+    
+    border-radius: 3px;
+    color:rgba(4, 43, 2, 0.726);
+    margin: 50px auto 25px;
+    width: 600px;
+    border-collapse: collapse;
+    border-left: 1px rgb(5, 63, 29) solid;
+    border-right: 1px rgb(4, 63, 14) solid;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgb(16, 119, 2);
+    border: solid;
+    border-style: solid;
+}
+table thead{
+    background-color: rgb(165, 255, 153);
+    color: rgba(4, 43, 2, 0.726);
+    font-weight:bold;
+    text-align:center;
+
+}
+table th,td{
+    padding:12px 15px;
+}
+table tbody tr{
+    border-bottom:1px solid rgb(12, 31, 1)
+}
+td{
+    padding: 6px;
+}
+
+.quote{
+    padding-top: 2px;
+    padding-bottom: 5px;
+    color: green;
+    text-align: center;
+}
+#main_content{
+    width:50%;
+}
+body{
+    color: rgb(0, 0, 0)
+}
