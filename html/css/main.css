@@ -19,7 +19,7 @@ h1{
 table {border-style: solid;
     
     
-    border-radius: 3px;
+    border-radius: 12px;
     color:rgba(4, 43, 2, 0.726);
     margin: 50px auto 25px;
     width: 600px;
@@ -49,6 +49,7 @@ td{
 }
 
 .quote{
+    border-radius: 12px;
     background-color: rgb(165, 255, 153);
     padding-top: 2px;
     padding-bottom: 5px;
@@ -74,6 +75,7 @@ body{
 
 }
 #ull{
+    border-radius: 12px;
     list-style-type: none;
     margin:0;
     padding:0;
@@ -92,4 +94,18 @@ body{
 }
 #important{
     color: rgb(4, 63, 14);
+}
+footer{
+    border-radius: 12px;
+    height: fit-content;
+    padding-left: 1%;
+    padding-right: 1%;
+    text-align: center;
+    padding-bottom: 0px;
+    background-color:rgb(165, 255, 153);
+    
+}
+.footer_links{
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
