@@ -16,20 +16,20 @@ h1{
     padding:2px;
     align-content: center;
 }
-table {border-style: solid;
+table {
     
     
     border-radius: 12px;
     color:rgba(4, 43, 2, 0.726);
     margin: 50px auto 25px;
-    width: 600px;
+    width: 100%;
     border-collapse: collapse;
     border-left: 1px rgb(5, 63, 29) solid;
     border-right: 1px rgb(4, 63, 14) solid;
     overflow: hidden;
     box-shadow: 0 0 20px rgb(16, 119, 2);
-    border: solid;
-    border-style: solid;
+    border: none;
+   
 }
 table thead{
     background-color: rgb(165, 255, 153);
@@ -108,4 +108,8 @@ footer{
 .footer_links{
     padding-top: 5px;
     padding-bottom: 5px;
+}
+.nav-item{
+    padding-left:3px;
+    padding-right:3px;
 }
