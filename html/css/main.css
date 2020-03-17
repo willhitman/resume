@@ -61,6 +61,7 @@ td{
 }
 body{
     background-color: rgb(232, 247, 230);
+    padding-bottom: 5px;
     
 }
 .headerr{
@@ -96,7 +97,7 @@ body{
     color: rgb(4, 63, 14);
 }
 footer{
-    border-radius: 12px;
+    border-radius: 20px;
     height: fit-content;
     padding-left: 1%;
     padding-right: 1%;
@@ -112,4 +113,22 @@ footer{
 .nav-item{
     padding-left:3px;
     padding-right:3px;
+}
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+.row{
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.card{
+   border-radius:15px;
+   margin-left: 2px;
+   margin-right: 2px;
 }
