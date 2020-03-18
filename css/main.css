@@ -14,7 +14,11 @@ h1{
 .quote{
     color:blue;
     align-content: center;
+    height:90px;
+    font-weight: bolder;
+   
 }
+
 table {
     
     
@@ -52,7 +56,7 @@ td{
 .quote{
     border-radius: 12px;
     background-color: rgb(165, 255, 153);
-    padding-top: 2px;
+    padding-top: 5px;
     padding-bottom: 5px;
     color: green;
     text-align: center;
@@ -105,6 +109,7 @@ footer{
     height: fit-content;
     text-align: center;
     padding-bottom: 0px;
+    background-image: url(images/footer.png);
     background-color:rgb(212, 233, 210);
     
 }
