@@ -99,8 +99,6 @@ body{
 footer{
     border-radius: 20px;
     height: fit-content;
-    padding-left: 1%;
-    padding-right: 1%;
     text-align: center;
     padding-bottom: 0px;
     background-color:rgb(165, 255, 153);
@@ -131,4 +129,16 @@ a.button {
    border-radius:15px;
    margin-left: 2px;
    margin-right: 2px;
+}
+/*fro scrolling*/
+html{
+    scroll-behavior: smooth;
+}
+.nav-item{
+    background-color: rgb(186, 228, 186);
+    width: auto;
+    
+}
+.nav-item:hover{
+    background-color:rgb(165, 255, 153);
 }
